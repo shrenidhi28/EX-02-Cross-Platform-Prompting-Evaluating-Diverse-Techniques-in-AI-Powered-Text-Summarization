@@ -1,5 +1,5 @@
 
-# EX-03-Prompt-Structures-for-Text-Summarization
+# EX-02-Prompt-Structures-for-Text-Summarization
 
 ## Objective
 
